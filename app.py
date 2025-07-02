@@ -5,7 +5,7 @@ print("Hello, World!")
 
 # Define two numbers
 a = 10
-b = 10
+b = 25
 
 #Perform arithmetic operations
 print("Addition:", a + b)
